@@ -1,6 +1,3 @@
-puts "Entrer un email"
-print "> "
-
 email_generer = []
 
 email1 = "jean.dupont."
